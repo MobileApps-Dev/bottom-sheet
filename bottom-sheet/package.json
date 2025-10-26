@@ -7,13 +7,13 @@
     "ios",
     "android"
   ],
-  "homepage": "https://github.com/MobileApps-Dev/botom-sheet#readme",
+  "homepage": "https://github.com/MobileApps-Dev/bottom-sheet#readme",
   "bugs": {
-    "url": "https://github.com/MobileApps-Dev/botom-sheet/issues"
+    "url": "https://github.com/MobileApps-Dev/bottom-sheet/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MobileApps-Dev/botom-sheet.git"
+    "url": "git+https://github.com/MobileApps-Dev/bottom-sheet.git"
   },
   "license": "MIT",
   "author": "MobileApps-Dev <dayanand.patiln@gmail.com> (https://github.com/MobileApps-Dev)",
